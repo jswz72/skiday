@@ -1,7 +1,6 @@
 import sqlite3, requests
 conn = sqlite3.connect('./data/data.db')
 db = conn.cursor()
-conn.row_factory = lambda cursor, row: row[0]
 
 def get_webpage(resort):
     db.execute('SELECT id from resorts where name=?', (resort,))
