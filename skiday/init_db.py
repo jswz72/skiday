@@ -1,9 +1,11 @@
 import sqlite3
 import os
-from definitions import DATA_PATH, DB_PATH
+from definitions import DATA_PATH
 
+print(DATA_PATH)
 if not os.path.exists(DATA_PATH):
     os.makedirs(DATA_PATH)
+
 
 db = sqlite3.connect('../data/data.db')
 cursor = db.cursor()
