@@ -5,7 +5,6 @@ import server.storage as storage
 
 def get_webpage(resort):
     url = storage.get_url(resort)
-    print('debug ', url);
     req = requests.get(url)
     if req.status_code // 100 in [4, 5]:
         raise HTTPError(f'Bad status code: {req.status_code}')
@@ -22,7 +21,6 @@ def get_resort_data(resort):
 
 def update_resort_data(resort):
     data = get_resort_data(resort)
-    print(data)
     if not data:
         print(f'Resort data not written for {resort}')
     storage.write_resort_data(resort, data)
