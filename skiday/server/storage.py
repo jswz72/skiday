@@ -1,10 +1,10 @@
 import sqlite3
+from definitions import DB_PATH
 
-conn = sqlite3.connect('../data/db')
+conn = sqlite3.connect(DB_PATH)
 db = conn.cursor()
 
-def write_resort_data(data):
-    #get ids of metric types and write metric with date
+def write_resort_data(resort, data):
     pass
 
 def get_url(resort):
