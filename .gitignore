@@ -1,1 +1,5 @@
 data/*
+*/server/test/pages/*
+*.pyc
+*/__pycache__/
+*.swp
