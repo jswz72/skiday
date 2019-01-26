@@ -17,9 +17,7 @@ def write_metrics(rid, data):
         db.execute('SELECT id FROM metric_types WHERE type=?', (metric,))
         result = db.fetchone()
         if result:
-            print(value)
-            # TODO fix value data format
-            db.execute('INSERT INTO metrics VALUES (?,?,?,?)', (rid, result[0],str(datetime.datetime.now()), value.join('-'))
+            db.execute('INSERT INTO metrics VALUES (?,?,?,?)', (rid, result[0],str(datetime.datetime.now()), value))
 
 
 def write_resort_data(resort, data):

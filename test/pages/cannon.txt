@@ -1,0 +1,1321 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+		<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-W5FV55S');</script>
+	<!-- End Google Tag Manager -->
+	
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="referrer" content="origin-when-cross-origin">
+
+	<title>Mountain Report - Cannon Mountain</title>
+
+	<!--[if lt IE 9]>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+	<![endif]-->
+
+	<link rel="shortcut icon" type="image/ico" href="https://www.cannonmt.com/local/img/favicon.png" />
+	<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,400i,700,700i" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700,700i" rel="stylesheet">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+
+	<link href="https://www.cannonmt.com/local/css/normalize.css" rel="stylesheet">
+	<link href="https://www.cannonmt.com/local/css/site.css" rel="stylesheet">
+	<link href="https://www.cannonmt.com/local/css/layout.css" rel="stylesheet">
+	<link href="https://www.cannonmt.com/local/css/component.css" rel="stylesheet">
+
+	
+
+
+	
+	<link href="https://www.cannonmt.com/local/css/module.css" rel="stylesheet">
+<link href="https://www.cannonmt.com/local/css/navigation.css" rel="stylesheet">
+<link href="https://www.cannonmt.com/local/css/trailsLifts.css" rel="stylesheet">
+<link href="https://www.cannonmt.com/local/css/mountainReport.css" rel="stylesheet">
+<link href="https://www.cannonmt.com/local/css/photoGallery.css" rel="stylesheet">
+<link href="https://www.cannonmt.com/local/css/magnific-1.1.0.css" rel="stylesheet">
+	<link href="https://www.cannonmt.com/local/css/print.css" rel="stylesheet" media="print">
+	<link href="https://www.cannonmt.com/local/css/update-9.css" rel="stylesheet">
+</head>
+
+  <body class="winter mountainReport ltr">
+        <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W5FV55S"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
+    
+    
+    <header id="page-header" role="banner" class="cont-root">
+    <a id="skip-to-content" href="#content">Skip to main content</a>
+  
+  <div id="logo-mobile" class="cont-page">
+    <a id="link-home-mobile" href="https://www.cannonmt.com/" tabindex="0" title="Home"><img class="logo-header" src="/imager/local/img/logo_cannon_living_legend_1c1bc0a28fde9d047f4e195fca9489da.png" alt="Cannon Mountain: The Living Legend"></a>
+  </div>
+
+  <nav id="nav-site" role="navigation">
+    <a id="link-home" href="https://www.cannonmt.com/" tabindex="0" title="Home"><img class="logo-header" src="/imager/local/img/logo_cannon_living_legend_1c1bc0a28fde9d047f4e195fca9489da.png" alt="Cannon Mountain: The Living Legend"></a>
+          
+
+
+
+
+            
+
+
+  
+
+
+<ul id="nav-tabs" class="nav-level-0">
+    <li class="nav-primary nav-tab nav-level-0">
+    <button class="nav-tab-ctrl" aria-expanded="false">AMENITIES</button>    <div class="ico-nav-indicator-cont"><img class="ico-nav-indicator" src="https://www.cannonmt.com/local/img/ico_nav_indicator.svg" alt=""></div>
+    <div class="nav-level-1 nb-hide">
+      <div class="nav-level-1-background">
+        <div class="nav-level-1-columns">
+          <ul class="column report">
+                          <li class="nav-item-level-1 mountain-report">    
+
+        
+
+
+      
+
+
+            
+
+
+<a             href="https://www.cannonmt.com/mountain-report"
+    >
+Mountain Report</a></li>
+                      </ul>
+
+                                                                                                                    <ul class="column left">
+            <li class="nav-item-level-1">
+          
+
+        
+
+
+      
+
+
+            
+
+
+<a             href="https://www.cannonmt.com/amenities/food-drink"
+    >
+Food &amp; Drink</a>
+    </li>
+                <li class="nav-item-level-1">
+          
+
+        
+
+
+      
+
+
+            
+
+
+<a             href="https://www.cannonmt.com/amenities/retail-shops"
+    >
+Retail Shops</a>
+    </li>
+                <li class="nav-item-level-1">
+          
+
+        
+
+
+      
+
+
+            
+
+
+<a             href="https://www.cannonmt.com/amenities/childcare"
+    >
+Childcare</a>
+    </li>
+          </ul>
+  <ul class="column right">
+            <li class="nav-item-level-1">
+          
+
+        
+
+
+      
+
+
+            
+
+
+<a             href="https://www.cannonmt.com/amenities/new-england-ski-museum"
+    >
+New England Ski Museum</a>
+    </li>
+                        <li class="nav-item-level-1">
+          
+
+        
+
+
+      
+
+
+            
+
+
+<a             href="https://www.cannonmt.com/amenities/winter-camping-rvs"
+    >
+Winter Camping &amp; RVs</a>
+    </li>
+          </ul>
+
+
+          <div class="column cta">
+                    </div>
+        </div>
+      </div>
+    </div>
+  </li>
+    <li class="nav-primary nav-tab nav-level-0 lodging">
+    <button class="nav-tab-ctrl" aria-expanded="false">LODGING</button>
+    <div class="ico-nav-indicator-cont"><img class="ico-nav-indicator" src="https://www.cannonmt.com/local/img/ico_nav_indicator.svg" alt=""></div>
+        <div class="nav-level-1 nb-hide">
+      <div class="nav-level-1-background">
+        <div class="nav-level-1-columns">
+          <ul class="column report">
+                          <li class="nav-item-level-1 mountain-report">    
+
+        
+
+
+      
+
+
+            
+
+
+<a             href="https://www.cannonmt.com/mountain-report"
+    >
+Mountain Report</a></li>
+                      </ul>
+          <ul class="column left">
+                                    <li class="nav-item-level-1">
+                  
+
+        
+
+
+      
+
+
+            
+
+
+<a             href="https://www.cannonmt.com/lodging/premium-lodging-partners"
+    >
+Premium Lodging Partners</a>
+            </li>
+                                                <li class="nav-item-level-1">
+                  
+
+        
+
+
+      
+
+
+            
+
+
+<a             href="https://www.cannonmt.com/lodging/all-lodging-partners"
+    >
+All Lodging Partners</a>
+            </li>
+                                  </ul>
+          <div class="column cta lodging">
+                                                          <a href="http://www.mtnclub.com"
+              target="_blank"
+              class="ua-track"
+              data-ua-ec="Mountain Club on Loon"
+              data-ua-ea="partner-site"
+              data-ua-el="http://www.mtnclub.com">
+                          <h4 id="featured-lodging-heading">FEATURED LODGING PARTNER</h4>
+                                
+
+              
+
+
+        
+  
+
+
+
+
+
+  
+        
+  
+
+
+  <img
+     id="featured-lodging-photo"     class="cta-nav"    src="/imager/lodgingimages/699/mtnclubloon_feadd3d8699e01656c22ad1a79184ad7.jpg"
+    sizes="100vw"
+    srcset="/imager/lodgingimages/699/mtnclubloon_feadd3d8699e01656c22ad1a79184ad7.jpg 500w"
+    alt="KIDS EAT FREE - Viaggio Resort Spa - Black Diamond Pub - Garaged Parking"
+    title=""
+  />
+
+                            <div id="featured-lodging-copy">
+                <p id="featured-lodging-title">Mountain Club on Loon</p>
+                <p id="featured-lodging-description">KIDS EAT FREE - Viaggio Resort Spa - Black Diamond Pub - Garaged Parking</p>
+              </div>
+                        </a>
+                                </div>
+        </div>
+      </div>
+    </div>
+  </li>
+      <li class="nav-primary nav-tab nav-level-0">
+    <button class="nav-tab-ctrl" aria-expanded="false">SKI &amp; RIDE</button>    <div class="ico-nav-indicator-cont"><img class="ico-nav-indicator" src="https://www.cannonmt.com/local/img/ico_nav_indicator.svg" alt=""></div>
+    <div class="nav-level-1 nb-hide">
+      <div class="nav-level-1-background">
+        <div class="nav-level-1-columns">
+          <ul class="column report">
+                          <li class="nav-item-level-1 mountain-report">    
+
+        
+
+
+      
+
+
+            
+
+
+<a             href="https://www.cannonmt.com/mountain-report"
+    >
+Mountain Report</a></li>
+                      </ul>
+                                                                                                                                                                                    <ul class="column left">
+            <li class="nav-item-level-1">
+          
+
+        
+
+
+      
+
+
+            
+
+
+<a             href="https://www.cannonmt.com/ski-ride/tickets"
+    >
+Lift Tickets</a>
+    </li>
+                <li class="nav-item-level-1">
+          
+
+        
+
+
+      
+
+
+            
+
+
+<a             href="https://www.cannonmt.com/ski-ride/passes"
+    >
+Season Passes</a>
+    </li>
+                        <li class="nav-item-level-1">
+          
+
+        
+
+
+      
+
+
+            
+
+
+<a             href="https://www.cannonmt.com/ski-ride/lessons"
+    >
+Lessons</a>
+    </li>
+                <li class="nav-item-level-1">
+          
+
+        
+
+
+      
+
+
+            
+
+
+<a             href="https://www.cannonmt.com/ski-ride/rentals"
+    >
+Rentals</a>
+    </li>
+          </ul>
+  <ul class="column right">
+            <li class="nav-item-level-1">
+          
+
+        
+
+
+      
+
+
+            
+
+
+<a             href="https://www.cannonmt.com/ski-ride/seasonal-programs"
+    >
+Seasonal Programs</a>
+    </li>
+                <li class="nav-item-level-1">
+          
+
+        
+
+
+      
+
+
+            
+
+
+<a             href="https://www.cannonmt.com/ski-ride/adult-clinics"
+    >
+Adult Clinics</a>
+    </li>
+                <li class="nav-item-level-1">
+          
+
+        
+
+
+      
+
+
+            
+
+
+<a             href="https://www.cannonmt.com/ski-ride/adaptive-sports"
+    >
+Adaptive Sports</a>
+    </li>
+                <li class="nav-item-level-1">
+          
+
+        
+
+
+      
+
+
+            
+
+
+<a             href="https://www.cannonmt.com/ski-ride/repair-shop"
+    >
+Repair Shop</a>
+    </li>
+                <li class="nav-item-level-1">
+          
+
+        
+
+
+      
+
+
+            
+
+
+<a             href="https://www.cannonmt.com/ski-ride/group-rates"
+    >
+Group Rates</a>
+    </li>
+          </ul>
+
+          <div class="column cta">
+                    </div>
+        </div>
+      </div>
+    </div>
+  </li>
+    <li class="nav-primary nav-tab nav-level-0">
+    <button class="nav-tab-ctrl" aria-expanded="false">THE MOUNTAIN</button>    <div class="ico-nav-indicator-cont"><img class="ico-nav-indicator" src="https://www.cannonmt.com/local/img/ico_nav_indicator.svg" alt=""></div>
+    <div class="nav-level-1 nb-hide">
+      <div class="nav-level-1-background">
+        <div class="nav-level-1-columns">
+          <ul class="column report">
+                          <li class="nav-item-level-1 mountain-report">    
+
+        
+
+
+      
+
+
+            
+
+
+<a             href="https://www.cannonmt.com/mountain-report"
+    >
+Mountain Report</a></li>
+                      </ul>
+                                                                                                                                                                                                              <ul class="column left">
+            <li class="nav-item-level-1">
+          
+
+        
+
+
+      
+
+
+                      
+
+
+<a             href="https://www.cannonmt.com/mountain/trails-lifts"
+    >
+Trails &amp; Lifts</a>
+    </li>
+                <li class="nav-item-level-1">
+          
+
+        
+
+
+      
+
+
+            
+
+
+<a             href="https://www.cannonmt.com/mountain/trail-map"
+    >
+Trail Map</a>
+    </li>
+                <li class="nav-item-level-1">
+          
+
+        
+
+
+      
+
+
+            
+
+
+<a             href="https://www.cannonmt.com/mountain/webcam-daily-photo"
+    >
+Webcam &amp; Daily Photo</a>
+    </li>
+                <li class="nav-item-level-1">
+          
+
+        
+
+
+      
+
+
+            
+
+
+<a             href="https://www.cannonmt.com/mountain/tuckerbrook-learning-area"
+    >
+Tuckerbrook Learning Area</a>
+    </li>
+                <li class="nav-item-level-1">
+          
+
+        
+
+
+      
+
+
+            
+
+
+<a             href="https://www.cannonmt.com/mountain/know-before-you-go"
+    >
+First Timer&#039;s Guide</a>
+    </li>
+                <li class="nav-item-level-1">
+          
+
+        
+
+
+      
+
+
+            
+
+
+<a             href="https://www.cannonmt.com/mountain/terrain-parks"
+    >
+Terrain Parks</a>
+    </li>
+          </ul>
+  <ul class="column right">
+            <li class="nav-item-level-1">
+          
+
+        
+
+
+      
+
+
+            
+
+
+<a             href="https://www.cannonmt.com/mountain/mountain-stats"
+    >
+Mountain Info</a>
+    </li>
+                <li class="nav-item-level-1">
+          
+
+        
+
+
+      
+
+
+            
+
+
+<a             href="https://www.cannonmt.com/mountain/cannon-history"
+    >
+Cannon History</a>
+    </li>
+                <li class="nav-item-level-1">
+          
+
+        
+
+
+      
+
+
+            
+
+
+<a             href="https://www.cannonmt.com/mountain/uphill-policy"
+    >
+Uphill Policy</a>
+    </li>
+                <li class="nav-item-level-1">
+          
+
+        
+
+
+      
+
+
+            
+
+
+<a             href="https://www.cannonmt.com/mountain/directions"
+    >
+Directions</a>
+    </li>
+                <li class="nav-item-level-1">
+          
+
+        
+
+
+                
+
+
+            
+
+
+<a             href="https://www.cannonmt.com/events"
+    >
+Event Calendar</a>
+    </li>
+          </ul>
+
+          <div class="column cta">
+                    </div>
+        </div>
+      </div>
+    </div>
+  </li>
+  </ul>
+      </nav>
+
+
+  </header>
+
+    <main id="content" role="main" class="cont-root">
+      <div class="modal-overlay"></div>
+      <div class="modal-overlay-mobile"></div>
+      
+  
+  
+        
+  <div class="cont-page">
+    <section id="cannon-report" class="report-section">
+      <h1 class="inside-heading">CANNON REPORT</h1>
+      <div class="inside-sub-heading">Today's Lift Hours 8:30am-4pm</div>
+      <div id="data-forecast-icon" class="data">
+        <h3 class="label">CURRENTLY</h3>
+        <div class="datum"><img src="/local/img/weather/red/ico_cloudy_partly.svg" alt="Partly Cloudy icon" /></div>
+        <a class="details-link" href="#forecast">Details <i class="fas fa-caret-right"></i></a>
+      </div>
+      <div id="data-new-snowfall" class="data">
+        <h3 class="label">NEW SNOWFALL</h3>
+        <div class="datum">2&#8221;</div> <!-- &ensp; &nbsp; -->
+        <a class="details-link" href="#current-conditions">Details <i class="fas fa-caret-right"></i></a>
+      </div>
+      <div class="clearfix hideable"></div>
+      <div id="data-trails" class="data">
+        <h3 class="label">TRAILS</h3>
+        <div class="datum">
+          50
+        </div>
+        <div class="context">of 97</div>
+        <a class="details-link" href="https://www.cannonmt.com/mountain/trails-lifts">Details <i class="fas fa-caret-right"></i></a>
+      </div>
+      <div id="data-lifts" class="data">
+        <h3 class="label">LIFTS</h3>
+        <div class="datum">
+          7
+        </div>
+        <div class="context">of 11</div>
+        <a class="details-link" href="https://www.cannonmt.com/mountain/trails-lifts">Details <i class="fas fa-caret-right"></i></a>
+      </div>
+      <div class="clearfix"></div>
+    </section>
+    <div class="clearfix"></div>
+    <section id="current-conditions" class="report-section">
+      <h1 class="inside-heading">CURRENT CONDITIONS</h1>
+      <p class="inside-sub-heading">Last Updated: Thursday, December 27th @ 3:45 pm</p>
+      <div id="snow-summary">
+        <div id="data-primary-surface" class="data">
+          <h3 class="label">PRIMARY SURFACE</h3>
+          <div class="datum">Machine Groomed</div>
+        </div>
+        <div id="data-secondary-surface" class="data">
+          <h3 class="label">SECONDARY SURFACE</h3>
+          <div class="datum">Packed Powder</div>
+        </div>
+        <div class="clearfix hideable"></div>
+        <div id="data-base-depth" class="data">
+          <h3 class="label">BASE DEPTH</h3>
+          <div class="datum">11-25&#8221;</div>
+        </div>
+        <div id="data-snow-to-date" class="data">
+          <h3 class="label">SEASON TO DATE SNOW</h3>
+          <div class="datum">54&#8221;</div>
+        </div>
+        <div class="clearfix"></div>
+      </div>
+      <div id="conditions"><p>There's another storm brewin' and it could bring us 2-4" of new snow for tomorrow morning! Temps will rise a bit tomorrow and snow is expected to shift to wintry mix &amp; rain so our guess is that first thing in the morning will be your best bet for the best turns. We'll have 50 trails open, around 40 of those will get groomed overnight. 7 lifts are scheduled for Friday including the Aerial Tramway which opens for first tracks at 8:15am while all other main lifts open at 8:30am. Scenic Round-Trip Tram rides for non-skiers are available when the Tram operates. Last ticket sold at 3pm, last car down at 3:45pm. <a href="https://www.cannonmt.com/ski-ride/tickets"><strong>See details</strong></a>. Snowmakers continue to hit some key areas on open terrain and are also working on some new terrain like Short Fuse, Lower Hardscrabble, Red Ball and Turnpike. Please note, Bypass will only be partially groomed with ungroomed snowmaking focused on the steep section (headwall). All ungroomed terrain will be pending patrol inspection and is expert only -please obey all closed trail ropes and signs. Check the <strong><a href="https://www.cannonmt.com/mountain/trails-lifts">Trail &amp; Lift Report</a></strong> for more details on grooming, snowmaking and trail status.<strong><br /></strong></p>
+<p><strong>UPHILL / SKINNING TRAFFIC<br /></strong>The uphill skinning route is expected to be <strong>OPEN</strong> today. Check back for updates as Taft Slalom is pending patrol inspection.</p>
+<p><strong>TERRAIN PARKS<br /></strong>The Tossup Park is expected to open today with a mix of Med/Large hits and a selection of rails. There will be a delayed opening while we put the finishing touches on, but get ready for one of the earliest and best openings on the main park! We will keep shaping and adding features as the week goes on.<a href="https://www.cannonmt.com/ski-ride/tickets"></a> <br /><br /><strong>LOOKING AHEAD<br /></strong>Snowmaking and grooming will continue through the week as long as temps allow on Skylight, Lower Hardscrabble, Short Fuse, Lower Ravine, Turnpike, and Brookside and a few guns on Bypass headwall, Big Link and Chute. Next on the list will be the top of Mittersill!</p>
+<p><strong><a href="http://www.cannonmt.com/events">WHAT'S HAPPENING</a></strong><strong><br /></strong></p>
+<p><strong>New Breakfast Buffet</strong><br />Fuel up for the day with a breakfast buffet at the Tramway Country Store, just $7.95 (plus tax) and includes a coffee, hot chocolate, or water.<strong><br /></strong></p>
+<p><strong>Cannon80 Celebration &amp; Family Fun Night with Fireworks - December 29</strong><br />Special activities &amp; deals during the day to celebrate our 80th season and the first Family Fun Night of the year. Click <a href="https://www.cannonmt.com/mountain/events"><strong>here</strong></a> for details.<br /><br /></p>
+<p>Be sure to "Like Us" on <a href="https://twitter.com/cannonmountain"><strong>Twitter</strong></a><strong>, </strong><strong><a href="http://www.facebook.com/#!/pages/Franconia-NH/Cannon-Mountain/131074673586704"><strong>Facebook</strong></a> &amp; </strong><a href="http://instagram.com/cannonmountain"><strong>Instagram</strong></a> and sign up for our <a href="https://visitor.r20.constantcontact.com/manage/optin?v=001beAL-N5vKfQ5OQQL8zMaj2bnVJHvewktyHnlXXrSAjBI4hsOzpMa4EjdT5MZuFEh__6hGyjU23X3DDCtQVcKPE5UE4Y0fy7kdavnyJ06z9Ckjn-PcKzfbVFZioqRX_B6-2XDWOZYBq-rwihH1y1m-8mOWJdnPR10"><strong>Newsletters</strong></a> to stay up to date on all things Cannon.</p></div>
+      <div id="conditions-data-cont">
+              </div>
+      <div class="clearfix"></div>
+    </section>
+    <section id="forecast" class="report-section">
+      <h1 id="detailed-forecast" class="inside-heading">WEATHER</h1>
+      <div id="forecast-summary"><p>Sunshine and mild winds to start with increasing clouds. Snow will develop tonight into tomorrow before changing over to rain during the day. </p></div>
+      <div id="forecast-data-cont">
+        <div id="forecast-cont">
+          <div id="today" class="forecast-day data">
+            <h3 class="label">TODAY</h3>
+            <div class="data-temp">
+              <div class="datum"><h4 class="label-datum">Low</h4>5&deg;</div>
+              <div class="datum"><h4 class="label-datum">High</h4>22&deg;</div>
+              <div class="clearfix"></div>
+            </div>
+            <div class="data-wind">
+              <h3 class="label">BASE WIND</h3>
+              <div>
+                <span class="wind-direction">NW</span>
+                <span class="at">@</span>
+                <span class="wind-speed">5-10</span>
+                <span class="mph">mph</span>
+              </div>
+            </div>
+            <div class="data-wind">
+              <h3 class="label">SUMMIT WIND</h3>
+              <div>
+                <span class="wind-direction">NW</span>
+                <span class="at">@</span>
+                <span class="wind-speed">5-10</span>
+                <span class="mph">mph</span>
+              </div>
+            </div>
+            <div class="forecast">Increasing clouds, snow tonight</div>
+          </div>
+          <div id="tomorrow" class="forecast-day data">
+            <h3 class="label">TOMORROW</h3>
+            <div class="data-temp">
+              <div class="datum"><h4 class="label-datum">Low</h4>23&deg;</div>
+              <div class="datum"><h4 class="label-datum">High</h4>37&deg;</div>
+              <div class="clearfix"></div>
+            </div>
+            <div class="data-wind">
+              <h3 class="label">BASE WIND</h3>
+              <div>
+                <span class="wind-direction">E-SE</span>
+                <span class="at">@</span>
+                <span class="wind-speed">10-20</span>
+                <span class="mph">mph</span>
+              </div>
+            </div>
+            <div class="data-wind">
+              <h3 class="label">SUMMIT WIND</h3>
+              <div>
+                <span class="wind-direction">E-SE</span>
+                <span class="at">@</span>
+                <span class="wind-speed">20-30</span>
+                <span class="mph">mph</span>
+              </div>
+            </div>
+            <div class="forecast">Snow in the morning, changing over to rain.</div>
+          </div>
+          <div class="clearfix"></div>
+        </div>
+      </div>
+      <div class="scroll-text">
+        Scroll <i class="fas fa-caret-right"></i>
+      </div>
+    </section>
+    <section id="lifts" class="report-section">
+      <h1 class="inside-heading">LIFTS</h1>
+      <div id="lifts-summary"><p>See the <a href="https://www.cannonmt.com/mountain/trails-lifts">Trail &amp; Lift Report</a> for Lift Hours</p></div>
+      
+<table id="lifts-status" class="lifts-table">
+  <tr class="lift-data background">
+    <td class="lift-name">
+      70-Passenger Aerial Tramway
+    </td>
+    <td class="lift-status open">
+      <i class="icon open fas fa-check-circle"></i>    </td>
+    <td class="lift-status windhold">
+      &nbsp;    </td>
+    <td class="lift-hours">
+      8:15am-3:45pm (last round-trip ride up is 3pm
+    </td>
+  </tr>
+  <tr class="lift-data ">
+    <td class="lift-name">
+      Brookside Triple Chair
+    </td>
+    <td class="lift-status open">
+      <i class="icon closed fas fa-times-circle"></i>    </td>
+    <td class="lift-status windhold">
+      &nbsp;    </td>
+    <td class="lift-hours">
+      
+    </td>
+  </tr>
+  <tr class="lift-data background">
+    <td class="lift-name">
+      Cannonball Express Quad Chair
+    </td>
+    <td class="lift-status open">
+      <i class="icon open fas fa-check-circle"></i>    </td>
+    <td class="lift-status windhold">
+      &nbsp;    </td>
+    <td class="lift-hours">
+      8:30am-3:45pm
+    </td>
+  </tr>
+  <tr class="lift-data ">
+    <td class="lift-name">
+      Eagle Cliff Triple Chair
+    </td>
+    <td class="lift-status open">
+      <i class="icon open fas fa-check-circle"></i>    </td>
+    <td class="lift-status windhold">
+      &nbsp;    </td>
+    <td class="lift-hours">
+      8:30am-4:00pm
+    </td>
+  </tr>
+  <tr class="lift-data background">
+    <td class="lift-name">
+      Magic Carpet
+    </td>
+    <td class="lift-status open">
+      <i class="icon closed fas fa-times-circle"></i>    </td>
+    <td class="lift-status windhold">
+      &nbsp;    </td>
+    <td class="lift-hours">
+      
+    </td>
+  </tr>
+  <tr class="lift-data ">
+    <td class="lift-name">
+      Peabody Express Quad Chair
+    </td>
+    <td class="lift-status open">
+      <i class="icon open fas fa-check-circle"></i>    </td>
+    <td class="lift-status windhold">
+      &nbsp;    </td>
+    <td class="lift-hours">
+      8:30am-4:00pm
+    </td>
+  </tr>
+  <tr class="lift-data background">
+    <td class="lift-name">
+      Huckerbrook Handle Tow
+    </td>
+    <td class="lift-status open">
+      <i class="icon closed fas fa-times-circle"></i>    </td>
+    <td class="lift-status windhold">
+      &nbsp;    </td>
+    <td class="lift-hours">
+      
+    </td>
+  </tr>
+  <tr class="lift-data ">
+    <td class="lift-name">
+      Tuckerbrook Quad Chair
+    </td>
+    <td class="lift-status open">
+      <i class="icon open fas fa-check-circle"></i>    </td>
+    <td class="lift-status windhold">
+      &nbsp;    </td>
+    <td class="lift-hours">
+      8:30am-4:00pm
+    </td>
+  </tr>
+  <tr class="lift-data background">
+    <td class="lift-name">
+      Zoomer Triple Chair
+    </td>
+    <td class="lift-status open">
+      <i class="icon open fas fa-check-circle"></i>    </td>
+    <td class="lift-status windhold">
+      &nbsp;    </td>
+    <td class="lift-hours">
+      8:30am-4:00pm
+    </td>
+  </tr>
+  <tr class="lift-data ">
+    <td class="lift-name">
+      Mittersill Double Chair
+    </td>
+    <td class="lift-status open">
+      <i class="icon closed fas fa-times-circle"></i>    </td>
+    <td class="lift-status windhold">
+      &nbsp;    </td>
+    <td class="lift-hours">
+      
+    </td>
+  </tr>
+  <tr class="lift-data background">
+    <td class="lift-name">
+      Valar T-Bar
+    </td>
+    <td class="lift-status open">
+      <i class="icon open fas fa-check-circle"></i>    </td>
+    <td class="lift-status windhold">
+      &nbsp;    </td>
+    <td class="lift-hours">
+      8:30am-3:45pm
+    </td>
+  </tr>
+</table>
+      <div id="trails-link">
+        <a href="https://www.cannonmt.com/mountain/trails-lifts">View Trail Report <i class="fas fa-caret-right"></i></a>
+    </div>
+    </section>
+
+        
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+    <section id="cam-photo" class="report-section">
+      <h1 class="inside-heading">DAILY PHOTO</h1>
+                      
+
+  
+
+
+  
+  
+
+  
+        
+
+<div class="photo-gallery-cont">
+  <div class="photo-gallery count-12">
+    <div>
+    
+                              <div class="photo-gallery-item cont-img">
+        <img src="/imager/farm5_staticflickr_com/4893/32617374138_fc2dc873c9_b_ac3b53f3d462f7c47f3742a199c21d2d.jpg"
+             sizes="100vw"
+             srcset="/imager/farm5_staticflickr_com/4893/32617374138_fc2dc873c9_b_ac3b53f3d462f7c47f3742a199c21d2d.jpg 400w, /imager/farm5_staticflickr_com/4893/32617374138_fc2dc873c9_b_f3e27b90fbeb7c0b8a352b2af63bf541.jpg 600w, /imager/farm5_staticflickr_com/4893/32617374138_fc2dc873c9_b_85fe4262e6f7d664e679f74b4c4d6c35.jpg 800w, /imager/farm5_staticflickr_com/4893/32617374138_fc2dc873c9_b_9c70bc1ab886836d7ac8ed19031b8d7c.jpg 1000w, /imager/farm5_staticflickr_com/4893/32617374138_fc2dc873c9_b_71ff2cc1d732d924b439258c143dfeeb.jpg 1200w"
+             alt="Tossup Terrain Park is Now Open! 12.27.18"
+             title="Tossup Terrain Park is Now Open! 12.27.18"             data-media="/imager/farm5_staticflickr_com/4893/32617374138_fc2dc873c9_b_71ff2cc1d732d924b439258c143dfeeb.jpg"
+             >
+                <div class="photo-gallery-item-caption">Tossup Terrain Park is Now Open! 12.27.18</div>      </div>
+    
+                              <div class="photo-gallery-item cont-img">
+        <img src="/imager/farm8_staticflickr_com/7804/31535244347_f92b0b6f89_b_ac3b53f3d462f7c47f3742a199c21d2d.jpg"
+             sizes="100vw"
+             srcset="/imager/farm8_staticflickr_com/7804/31535244347_f92b0b6f89_b_ac3b53f3d462f7c47f3742a199c21d2d.jpg 400w, /imager/farm8_staticflickr_com/7804/31535244347_f92b0b6f89_b_f3e27b90fbeb7c0b8a352b2af63bf541.jpg 600w, /imager/farm8_staticflickr_com/7804/31535244347_f92b0b6f89_b_85fe4262e6f7d664e679f74b4c4d6c35.jpg 800w, /imager/farm8_staticflickr_com/7804/31535244347_f92b0b6f89_b_9c70bc1ab886836d7ac8ed19031b8d7c.jpg 1000w, /imager/farm8_staticflickr_com/7804/31535244347_f92b0b6f89_b_71ff2cc1d732d924b439258c143dfeeb.jpg 1200w"
+             alt="Visit Cannon This Holiday Week! 12.26.18"
+             title="Visit Cannon This Holiday Week! 12.26.18"             data-media="/imager/farm8_staticflickr_com/7804/31535244347_f92b0b6f89_b_71ff2cc1d732d924b439258c143dfeeb.jpg"
+             >
+                <div class="photo-gallery-item-caption">Visit Cannon This Holiday Week! 12.26.18</div>      </div>
+    
+                              <div class="photo-gallery-item cont-img">
+        <img src="/imager/farm5_staticflickr_com/4914/46436453371_244dae0d10_b_ac3b53f3d462f7c47f3742a199c21d2d.jpg"
+             sizes="100vw"
+             srcset="/imager/farm5_staticflickr_com/4914/46436453371_244dae0d10_b_ac3b53f3d462f7c47f3742a199c21d2d.jpg 400w, /imager/farm5_staticflickr_com/4914/46436453371_244dae0d10_b_f3e27b90fbeb7c0b8a352b2af63bf541.jpg 600w, /imager/farm5_staticflickr_com/4914/46436453371_244dae0d10_b_85fe4262e6f7d664e679f74b4c4d6c35.jpg 800w, /imager/farm5_staticflickr_com/4914/46436453371_244dae0d10_b_9c70bc1ab886836d7ac8ed19031b8d7c.jpg 1000w, /imager/farm5_staticflickr_com/4914/46436453371_244dae0d10_b_71ff2cc1d732d924b439258c143dfeeb.jpg 1200w"
+             alt="12/23/18 The grooming crew really pulled through and brought the slopes back to life today - thank you Mtn Ops Crew!"
+             title="12/23/18 The grooming crew really pulled through and brought the slopes back to life today - thank you Mtn Ops Crew!"             data-media="/imager/farm5_staticflickr_com/4914/46436453371_244dae0d10_b_71ff2cc1d732d924b439258c143dfeeb.jpg"
+             >
+                <div class="photo-gallery-item-caption">12/23/18 The grooming crew really pulled through and brought the slopes back to life today - thank you Mtn Ops Crew!</div>      </div>
+    
+                              <div class="photo-gallery-item cont-img">
+        <img src="/imager/farm5_staticflickr_com/4888/45473060445_4758b28d8f_b_ac3b53f3d462f7c47f3742a199c21d2d.jpg"
+             sizes="100vw"
+             srcset="/imager/farm5_staticflickr_com/4888/45473060445_4758b28d8f_b_ac3b53f3d462f7c47f3742a199c21d2d.jpg 400w, /imager/farm5_staticflickr_com/4888/45473060445_4758b28d8f_b_f3e27b90fbeb7c0b8a352b2af63bf541.jpg 600w, /imager/farm5_staticflickr_com/4888/45473060445_4758b28d8f_b_85fe4262e6f7d664e679f74b4c4d6c35.jpg 800w, /imager/farm5_staticflickr_com/4888/45473060445_4758b28d8f_b_9c70bc1ab886836d7ac8ed19031b8d7c.jpg 1000w, /imager/farm5_staticflickr_com/4888/45473060445_4758b28d8f_b_71ff2cc1d732d924b439258c143dfeeb.jpg 1200w"
+             alt="12/19/18 snowmaking continues tonight and more sunny skies tomorrow!"
+             title="12/19/18 snowmaking continues tonight and more sunny skies tomorrow!"             data-media="/imager/farm5_staticflickr_com/4888/45473060445_4758b28d8f_b_71ff2cc1d732d924b439258c143dfeeb.jpg"
+             >
+                <div class="photo-gallery-item-caption">12/19/18 snowmaking continues tonight and more sunny skies tomorrow!</div>      </div>
+    
+                              <div class="photo-gallery-item cont-img">
+        <img src="/imager/farm5_staticflickr_com/4895/46227949562_cfb05bc006_b_ac3b53f3d462f7c47f3742a199c21d2d.jpg"
+             sizes="100vw"
+             srcset="/imager/farm5_staticflickr_com/4895/46227949562_cfb05bc006_b_ac3b53f3d462f7c47f3742a199c21d2d.jpg 400w, /imager/farm5_staticflickr_com/4895/46227949562_cfb05bc006_b_f3e27b90fbeb7c0b8a352b2af63bf541.jpg 600w, /imager/farm5_staticflickr_com/4895/46227949562_cfb05bc006_b_85fe4262e6f7d664e679f74b4c4d6c35.jpg 800w, /imager/farm5_staticflickr_com/4895/46227949562_cfb05bc006_b_9c70bc1ab886836d7ac8ed19031b8d7c.jpg 1000w, /imager/farm5_staticflickr_com/4895/46227949562_cfb05bc006_b_71ff2cc1d732d924b439258c143dfeeb.jpg 1200w"
+             alt="The Snow is Piling Up On Zoomer! 12.11.18"
+             title="The Snow is Piling Up On Zoomer! 12.11.18"             data-media="/imager/farm5_staticflickr_com/4895/46227949562_cfb05bc006_b_71ff2cc1d732d924b439258c143dfeeb.jpg"
+             >
+                <div class="photo-gallery-item-caption">The Snow is Piling Up On Zoomer! 12.11.18</div>      </div>
+    
+                              <div class="photo-gallery-item cont-img">
+        <img src="/imager/farm2_staticflickr_com/1968/32376735718_871b466952_b_ac3b53f3d462f7c47f3742a199c21d2d.jpg"
+             sizes="100vw"
+             srcset="/imager/farm2_staticflickr_com/1968/32376735718_871b466952_b_ac3b53f3d462f7c47f3742a199c21d2d.jpg 400w, /imager/farm2_staticflickr_com/1968/32376735718_871b466952_b_f3e27b90fbeb7c0b8a352b2af63bf541.jpg 600w, /imager/farm2_staticflickr_com/1968/32376735718_871b466952_b_85fe4262e6f7d664e679f74b4c4d6c35.jpg 800w, /imager/farm2_staticflickr_com/1968/32376735718_871b466952_b_9c70bc1ab886836d7ac8ed19031b8d7c.jpg 1000w, /imager/farm2_staticflickr_com/1968/32376735718_871b466952_b_71ff2cc1d732d924b439258c143dfeeb.jpg 1200w"
+             alt="12/9/18 Fun runs at the summit and snowmaking on the Front5 today!"
+             title="12/9/18 Fun runs at the summit and snowmaking on the Front5 today!"             data-media="/imager/farm2_staticflickr_com/1968/32376735718_871b466952_b_71ff2cc1d732d924b439258c143dfeeb.jpg"
+             >
+                <div class="photo-gallery-item-caption">12/9/18 Fun runs at the summit and snowmaking on the Front5 today!</div>      </div>
+    
+                              <div class="photo-gallery-item cont-img">
+        <img src="/imager/farm5_staticflickr_com/4866/45321111885_a45724cedb_b_ac3b53f3d462f7c47f3742a199c21d2d.jpg"
+             sizes="100vw"
+             srcset="/imager/farm5_staticflickr_com/4866/45321111885_a45724cedb_b_ac3b53f3d462f7c47f3742a199c21d2d.jpg 400w, /imager/farm5_staticflickr_com/4866/45321111885_a45724cedb_b_f3e27b90fbeb7c0b8a352b2af63bf541.jpg 600w, /imager/farm5_staticflickr_com/4866/45321111885_a45724cedb_b_85fe4262e6f7d664e679f74b4c4d6c35.jpg 800w, /imager/farm5_staticflickr_com/4866/45321111885_a45724cedb_b_9c70bc1ab886836d7ac8ed19031b8d7c.jpg 1000w, /imager/farm5_staticflickr_com/4866/45321111885_a45724cedb_b_71ff2cc1d732d924b439258c143dfeeb.jpg 1200w"
+             alt="12/8/18 Amazing conditions today and more sun &amp; warmer temps for Sunday!"
+             title="12/8/18 Amazing conditions today and more sun &amp; warmer temps for Sunday!"             data-media="/imager/farm5_staticflickr_com/4866/45321111885_a45724cedb_b_71ff2cc1d732d924b439258c143dfeeb.jpg"
+             >
+                <div class="photo-gallery-item-caption">12/8/18 Amazing conditions today and more sun &amp; warmer temps for Sunday!</div>      </div>
+    
+                              <div class="photo-gallery-item cont-img">
+        <img src="/imager/farm5_staticflickr_com/4871/32361304238_1835f7efc1_b_ac3b53f3d462f7c47f3742a199c21d2d.jpg"
+             sizes="100vw"
+             srcset="/imager/farm5_staticflickr_com/4871/32361304238_1835f7efc1_b_ac3b53f3d462f7c47f3742a199c21d2d.jpg 400w, /imager/farm5_staticflickr_com/4871/32361304238_1835f7efc1_b_f3e27b90fbeb7c0b8a352b2af63bf541.jpg 600w, /imager/farm5_staticflickr_com/4871/32361304238_1835f7efc1_b_85fe4262e6f7d664e679f74b4c4d6c35.jpg 800w, /imager/farm5_staticflickr_com/4871/32361304238_1835f7efc1_b_9c70bc1ab886836d7ac8ed19031b8d7c.jpg 1000w, /imager/farm5_staticflickr_com/4871/32361304238_1835f7efc1_b_71ff2cc1d732d924b439258c143dfeeb.jpg 1200w"
+             alt="12/8/18 Today was amazing and more sun &amp; warmer temps for Sunday!"
+             title="12/8/18 Today was amazing and more sun &amp; warmer temps for Sunday!"             data-media="/imager/farm5_staticflickr_com/4871/32361304238_1835f7efc1_b_71ff2cc1d732d924b439258c143dfeeb.jpg"
+             >
+                <div class="photo-gallery-item-caption">12/8/18 Today was amazing and more sun &amp; warmer temps for Sunday!</div>      </div>
+    
+                              <div class="photo-gallery-item cont-img">
+        <img src="/imager/farm5_staticflickr_com/4820/46221505771_32f69c12a6_b_ac3b53f3d462f7c47f3742a199c21d2d.jpg"
+             sizes="100vw"
+             srcset="/imager/farm5_staticflickr_com/4820/46221505771_32f69c12a6_b_ac3b53f3d462f7c47f3742a199c21d2d.jpg 400w, /imager/farm5_staticflickr_com/4820/46221505771_32f69c12a6_b_f3e27b90fbeb7c0b8a352b2af63bf541.jpg 600w, /imager/farm5_staticflickr_com/4820/46221505771_32f69c12a6_b_85fe4262e6f7d664e679f74b4c4d6c35.jpg 800w, /imager/farm5_staticflickr_com/4820/46221505771_32f69c12a6_b_9c70bc1ab886836d7ac8ed19031b8d7c.jpg 1000w, /imager/farm5_staticflickr_com/4820/46221505771_32f69c12a6_b_71ff2cc1d732d924b439258c143dfeeb.jpg 1200w"
+             alt="12/7/18 61 trails, great snow &amp; special events this weekend!"
+             title="12/7/18 61 trails, great snow &amp; special events this weekend!"             data-media="/imager/farm5_staticflickr_com/4820/46221505771_32f69c12a6_b_71ff2cc1d732d924b439258c143dfeeb.jpg"
+             >
+                <div class="photo-gallery-item-caption">12/7/18 61 trails, great snow &amp; special events this weekend!</div>      </div>
+    
+                              <div class="photo-gallery-item cont-img">
+        <img src="/imager/farm5_staticflickr_com/4914/31193900667_2d8ca59ba9_b_ac3b53f3d462f7c47f3742a199c21d2d.jpg"
+             sizes="100vw"
+             srcset="/imager/farm5_staticflickr_com/4914/31193900667_2d8ca59ba9_b_ac3b53f3d462f7c47f3742a199c21d2d.jpg 400w, /imager/farm5_staticflickr_com/4914/31193900667_2d8ca59ba9_b_f3e27b90fbeb7c0b8a352b2af63bf541.jpg 600w, /imager/farm5_staticflickr_com/4914/31193900667_2d8ca59ba9_b_85fe4262e6f7d664e679f74b4c4d6c35.jpg 800w, /imager/farm5_staticflickr_com/4914/31193900667_2d8ca59ba9_b_9c70bc1ab886836d7ac8ed19031b8d7c.jpg 1000w, /imager/farm5_staticflickr_com/4914/31193900667_2d8ca59ba9_b_71ff2cc1d732d924b439258c143dfeeb.jpg 1200w"
+             alt="Loaded with Snow! 86 Trails on 12.1.18"
+             title="Loaded with Snow! 86 Trails on 12.1.18"             data-media="/imager/farm5_staticflickr_com/4914/31193900667_2d8ca59ba9_b_71ff2cc1d732d924b439258c143dfeeb.jpg"
+             >
+                <div class="photo-gallery-item-caption">Loaded with Snow! 86 Trails on 12.1.18</div>      </div>
+    
+                              <div class="photo-gallery-item cont-img">
+        <img src="/imager/farm5_staticflickr_com/4856/31180507277_c5aaac3537_b_ac3b53f3d462f7c47f3742a199c21d2d.jpg"
+             sizes="100vw"
+             srcset="/imager/farm5_staticflickr_com/4856/31180507277_c5aaac3537_b_ac3b53f3d462f7c47f3742a199c21d2d.jpg 400w, /imager/farm5_staticflickr_com/4856/31180507277_c5aaac3537_b_f3e27b90fbeb7c0b8a352b2af63bf541.jpg 600w, /imager/farm5_staticflickr_com/4856/31180507277_c5aaac3537_b_85fe4262e6f7d664e679f74b4c4d6c35.jpg 800w, /imager/farm5_staticflickr_com/4856/31180507277_c5aaac3537_b_9c70bc1ab886836d7ac8ed19031b8d7c.jpg 1000w, /imager/farm5_staticflickr_com/4856/31180507277_c5aaac3537_b_71ff2cc1d732d924b439258c143dfeeb.jpg 1200w"
+             alt="11/30/18 Vista Way &amp; Upper Mountain were spectacular today!"
+             title="11/30/18 Vista Way &amp; Upper Mountain were spectacular today!"             data-media="/imager/farm5_staticflickr_com/4856/31180507277_c5aaac3537_b_71ff2cc1d732d924b439258c143dfeeb.jpg"
+             >
+                <div class="photo-gallery-item-caption">11/30/18 Vista Way &amp; Upper Mountain were spectacular today!</div>      </div>
+    
+                              <div class="photo-gallery-item cont-img">
+        <img src="/imager/farm5_staticflickr_com/4904/44290072960_91e53f0ee7_b_ac3b53f3d462f7c47f3742a199c21d2d.jpg"
+             sizes="100vw"
+             srcset="/imager/farm5_staticflickr_com/4904/44290072960_91e53f0ee7_b_ac3b53f3d462f7c47f3742a199c21d2d.jpg 400w, /imager/farm5_staticflickr_com/4904/44290072960_91e53f0ee7_b_f3e27b90fbeb7c0b8a352b2af63bf541.jpg 600w, /imager/farm5_staticflickr_com/4904/44290072960_91e53f0ee7_b_85fe4262e6f7d664e679f74b4c4d6c35.jpg 800w, /imager/farm5_staticflickr_com/4904/44290072960_91e53f0ee7_b_9c70bc1ab886836d7ac8ed19031b8d7c.jpg 1000w, /imager/farm5_staticflickr_com/4904/44290072960_91e53f0ee7_b_71ff2cc1d732d924b439258c143dfeeb.jpg 1200w"
+             alt="11/29/18 November has been one for the books!"
+             title="11/29/18 November has been one for the books!"             data-media="/imager/farm5_staticflickr_com/4904/44290072960_91e53f0ee7_b_71ff2cc1d732d924b439258c143dfeeb.jpg"
+             >
+                <div class="photo-gallery-item-caption">11/29/18 November has been one for the books!</div>      </div>
+        </div>
+    <div class="clearfix"></div>
+  </div>
+</div>
+<div class="scroll-text count-12">
+  Scroll <i class="fas fa-caret-right"></i>
+</div>
+
+
+    </section>
+    <section id="more-info" class="report-section">
+      <h1 class="inside-heading ">MORE INFORMATION</h1>
+      <h2 class="inside-label">HOURS</h2>
+      <div class="inside-sub-heading">Mountain Hours 8:30am-4pm</div>
+      <div class="more-info-copy">
+        <p><strong>Tram</strong><br /><em>(Tram runs late December through late March)</em><br />9am-3:45pm Friday &amp; Mondays<br />8:15am-3:45pm Saturdays, Sundays &amp; Holiday Periods.<br />Closed Tues/Wed/Thurs during Non-Holiday periods.<br />For round-trip non-skiers, last ticket sold at 3pm, last car down at 3:45pm.</p><br />
+<p><strong>Peabody Express, Zoomer, Tuckerbrook </strong><br />9am-4pm Midweek<br />8:30am-4pm Weekends/Holidays<strong><br /></strong></p><br />
+<p><strong>Cannonball</strong><br />9am-3:45pm Midweek<br />8:30am-3:45pm Weekends/Holidays<strong><br /></strong></p><br />
+<p><strong>Mittersill</strong><br />9am-3:30pm Midweek<br />8:30am-3:30pm Weekends/Holidays</p><br />
+<p><strong>E</strong><strong>agle Cliff, Brookside, Huckerbrook Handle Tow,</strong> Magic Carpet Weekends/Holidays ONLY open at 9am</p><p><strong><br />Cannon is closed on Thanksgiving Day and Christmas Day</strong><br /><br /><br /><br /></p>
+      </div>
+        <h2 class="inside-label">DIRECTIONS</h2>
+        <iframe id="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d666197.6129496453!2d-71.4670674874998!3d43.999835550054534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDTCsDEwJzQzLjYiTiA3McKwNDInMDYuNSJX!5e0!3m2!1sen!2sus!4v1534190069541" style="border:0" allowfullscreen=""></iframe>
+    </section>
+    <section id="sponsor">
+      <div id="sponsor-logo-cont">
+        <a target="_blank" href="http://www.littletonchevrolet.com/"  class="cont-img">
+          <img src="https://www.cannonmt.com/local/img/logo_littleton_chevy.jpg" alt="Sponsored by Littleton Chevrolet">
+        </a>
+      </div>
+    </section>
+  </div>
+  	</main>
+
+    
+
+
+
+
+<div id="page-footer-cont">
+  <div class="modal-overlay"></div>
+  <div class="modal-overlay-mobile"></div>
+  <hr id="footer-border">
+  <footer id="page-footer">
+    <div class="cont-page">
+      <div id="social-search-email">
+        <ul id="social" class="social-search-email-cont nav">
+          <li><a target="_blank" href="https://www.facebook.com/CannonMountain/"><i class="fab fa-facebook"></i></a>
+          <li><a target="_blank" href="https://instagram.com/cannonmountain/"><i class="fab fa-instagram"></i></a>
+          <li><a target="_blank" href="https://twitter.com/cannonmountain"><i class="fab fa-twitter-square"></i></a>
+          <li><a target="_blank" href="https://www.youtube.com/user/CannonMountain"><i class="fab fa-youtube-square"></i></a>
+                  </ul>
+        <div id="search" class="social-search-email-cont">
+          <form action="https://www.cannonmt.com/search-results" method="post">
+            <input type="hidden" name="CRAFT_CSRF_TOKEN" value="mknux2CVuOWNh2gzHMf3NYMFFmD2g2-Y_snNjxnpQyv82GsOA-TKm8IIrI9Y4smI3rcyZXC3v1vOYngkudECoKqWlf9xjgd4lZYOP0vTm98=">
+            <input id="search-input" type="search" name="q" placeholder="Search">
+            <input id="search-submit" type="submit" value="GO">
+          </form>
+        </div>
+        <div id="email" class="social-search-email-cont">
+          <div id="email-label">CANNON BLAST NEWSLETTER</div>
+          <div class="cont-cta-reverse">
+            <a class="cta-reverse" target="_blank" href="https://visitor.r20.constantcontact.com/d.jsp?llr=5pa9a4cab&p=oi&m=1102700151294&sit=lncqusoeb&f=0608c87b-ea49-4e38-8773-3c3744bb7063">Sign Up</a>
+          </div>
+        </div>
+        <div class="clearfix"></div>
+      </div>
+      <div id="nav-footer">
+        <ul id="column-one" class="nav">
+          <li><a href="https://www.cannonmt.com/employment">Employment</a></li>
+          <li><a href="https://www.cannonmt.com/media">Media</a></li>
+          <li><a href="https://www.cannonmt.com/privacy-policy">Privacy Policy</a></li>
+          <li><a href="https://www.cannonmt.com/donation-request">Donation Request</a></li>
+        </ul>
+        <ul id="column-two" class="nav">
+          <li><a href="https://www.cannonmt.com/gift-cards">Gift Cards</a></li>
+          <li><a href="https://www.cannonmt.com/contact-us">Contact Us</a></li>
+          <li><a href="https://www.cannonmt.com/web-accessibility">Web Accessibility</a></li>
+        </ul>
+      </div>
+      <div id="logos">
+        <img id="logo-fnsp" src="/local/img/logo_fnsp.png" alt="">
+        <br id="logo-break" />
+        <a target="_blank" href="https://www.nhstateparks.org/"><img id="logo-nh-parks" src="/local/img/logo_nh_state_parks.png" alt=""></a>
+      </div>
+      <div class="clearfix"></div>
+      <div id="logo-cannon" class="cont-img">
+        <a href="https://www.cannonmt.com/" title="Home"><img id="logo-footer" src="/imager/local/img/logo_cannon_living_legend_1c1bc0a28fde9d047f4e195fca9489da.png" alt="Home"></a>
+      </div>
+      <div class="clearfix"></div>
+      <div id="copyright-address">
+        <p>&copy; 2018 Cannon Mountain - 260 Tramway Drive - Franconia, NH 03580 - <a href="tel:+1-603-823-8800">603-823-8800</a> - <a href="mailto:info@cannonmt.com">info@cannonmt.com</a><br/>
+        NH Department of Natural & Cultural Resources - Division of Parks & Recreation</p>
+      </div>
+          </div>
+  </footer>
+</div>
+
+    
+    <script src="https://www.cannonmt.com/local/js/jquery-3.3.1.min.js"></script>
+<script src="https://www.cannonmt.com/local/js/jquery-ui-1.12.1-slide.min.js"></script>
+
+    <script src="https://www.cannonmt.com/local/js/jquery.fn.navBar-1.0.js"></script>
+<script src="https://www.cannonmt.com/local/js/jquery.fn.navSlider-1.0.js"></script>
+<script src="https://www.cannonmt.com/local/js/magnific-1.1.0-custom.min.js"></script>
+<script>$(document).ready(function() {
+
+    var $doc = $(document);
+
+    var $win = $(window);
+
+    var breakpoint = 975;
+
+    // Bottom nav tabs
+    $('#nav-site').navBar({
+      'tabSelector': '.nav-tab-ctrl',
+      'dropupSelector': 'div.nav-level-1',
+      'modalOverlaySelector': '.modal-overlay-mobile',
+      'modalOverlayActiveClass': 'active',
+      'useModalOverlay': true,
+      'breakpoint': breakpoint,
+      'tabSelectorCallback': function($nav,$tab,action){
+
+        // This is for when an expanded menu is larger than the screen height
+        $tab.height('auto');
+
+        if (action == 'opened') {
+
+          if (($doc.scrollTop()-$tab.offset().top) > 0) {
+
+            var height = $win.height() - parseFloat($tab.css('bottom'));
+
+            $tab.height(height+'px');
+
+            $tab.css('overflow-y','scroll');
+
+          } else {
+
+            $tab.height('auto');
+
+            $tab.css('overflow-y','visible');
+          }
+        }
+      }
+    });
+
+    var hoverTimeout;
+
+    // Trigger modal overlay on desktop hover
+    $('#nav-site li.nav-level-0').hover(function(){
+
+      if ($(window).width() >= breakpoint) {
+
+        clearTimeout(hoverTimeout);
+        hoverTimeout = setTimeout(function(){
+
+          $('.modal-overlay').addClass('active');
+        },100);
+      }
+
+    },function(){
+
+      if ($(window).width() >= breakpoint) {
+
+        clearTimeout(hoverTimeout);
+        hoverTimeout = setTimeout(function(){
+
+          $('.modal-overlay').removeClass('active');
+        },200);
+      }
+    });
+
+    // Bottom secondary nav slides
+
+    $('#nav-secondary').navSlider({
+      'slideControlSelector': '.nav-slide-ctrl',
+      'backControlSelector': '.nav-back-ctrl',
+      'slideSelector': '.nav-slide',
+      'breakpoint': breakpoint,
+    });
+
+  });
+$(document).ready(function() {
+  	$('.photo-gallery.count-12 > div').magnificPopup({
+  		delegate: '.photo-gallery-item > img',
+      type: 'image',
+      disableOn: 785,
+      mainClass: 'mfp-img-mobile',
+      closeMarkup: '<button title="Close" type="button" class="mfp-close"><img class="mfp-close mfp-close-img" src="https://www.cannonmt.com/local/img/ico_close.svg" alt=""></button>',
+  		tLoading: 'Loading image...',
+  		gallery: {
+  			enabled: true,
+  			navigateByImgClick: true,
+  			preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+  		},
+      callbacks: {
+        elementParse: function(item) {
+          item.src = item.el[0].dataset.media;
+        }
+      }
+
+  	});
+  });</script>
+  </body>
+</html>
