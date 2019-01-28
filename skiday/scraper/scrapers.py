@@ -8,11 +8,11 @@ def scrape_cannon(soup):
     }
     heading = soup.find(id='cannon-report', class_='report-section')
     hours_string = heading.find(class_='inside-sub-heading').getText()
-    hours = hours_string[re.search('\d', hours_string).start():]
+    hours = hours_string[re.search(r'\d', hours_string).start():]
     report['hours'] = hours
 
     data = [item.getText() for item in heading.find_all(class_='datum')]
-    nums = ['-'.join(re.findall('\d+', item)) for item in data[1:]]
+    nums = ['-'.join(re.findall(r'\d+', item)) for item in data[1:]]
     report['snow'], report['trails'], report['lifts'] = nums
     return report
 
