@@ -5,14 +5,19 @@ from definitions import DB_PATH, METRICS
 conn = sqlite3.connect(DB_PATH, isolation_level=None)
 db = conn.cursor()
 
+
 def get_resort_conditions(id):
-    db.execute('SELECT description FROM conditions WHERE resort=?', (id,))
-    return db.fetchall()
+    db.execute('SELECT description, date FROM conditions WHERE resort=? ORDER BY date LIMIT 1', (id,))
+    return db.fetchone()
 
 
 def get_resort_metrics(id):
-    db.execute('SELECT data FROM metrics WHERE resort=?', (id,))
-    return db.fetchall()
+    metrics = {}
+    db.execute('SELECT id, type from metric_types')
+    for mtype, desc in db.fetchall():
+        db.execute('SELECT data FROM metrics WHERE resort=? AND metric=? ORDER BY date LIMIT 1 ', (id, mtype))
+        metrics[desc] = db.fetchone()[0]
+    return metrics
 
 
 def get_resort_id(resort):
@@ -22,7 +27,6 @@ def get_resort_id(resort):
 
 def get_resort_data(resort):
     rid = get_resort_id(resort)
-    conditions = get_resort_conditions(rid)
+    conditions, timestamp = get_resort_conditions(rid)
     metrics = get_resort_metrics(rid)
-    print(conditions)
-    print(metrics)
+    return {**metrics, 'conditions': conditions, 'timestamp': timestamp}

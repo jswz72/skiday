@@ -1,4 +1,4 @@
-from flask import Flask
+from flask import Flask, jsonify
 import server.storage as storage
 
 app = Flask(__name__)
@@ -6,4 +6,4 @@ app = Flask(__name__)
 
 @app.route('/resort/<resort>')
 def hello_world(resort):
-    return storage.get_resort_data(resort)
+    return jsonify(storage.get_resort_data(resort))
