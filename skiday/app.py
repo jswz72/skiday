@@ -5,5 +5,10 @@ app = Flask(__name__)
 
 
 @app.route('/resort/<resort>')
-def hello_world(resort):
+def resort_data(resort):
     return jsonify(storage.get_resort_data(resort))
+
+
+@app.route('/')
+def all_data():
+    return jsonify(storage.get_all_resort_data())
