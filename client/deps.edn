@@ -1,0 +1,4 @@
+{:deps 
+ {org.clojure/clojurescript {:mvn/version "1.10.516"}
+ cljs-ajax {:mvn/version "0.8.0"}}}
+
